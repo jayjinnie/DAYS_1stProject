@@ -1,5 +1,5 @@
 # DAYS_1stProject
-서울시 인구수와 CCTV수간의 상관관계 분석
+### 발표 
 
 ![정은진_개인프로젝트 PPT_page-0001](https://user-images.githubusercontent.com/65335952/108602237-5625fd00-73e4-11eb-8a6e-558ae4caf9ec.jpg)
 ![정은진_개인프로젝트 PPT_page-0002](https://user-images.githubusercontent.com/65335952/108602238-56be9380-73e4-11eb-91ac-6bac25f781ce.jpg)
